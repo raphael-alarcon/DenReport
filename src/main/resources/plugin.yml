@@ -1,0 +1,7 @@
+name: ReportPlugin
+version: '${project.version}'
+main: den.reportplugin.ReportPlugin
+
+commands:
+  report:
+    description: Commande de rapport.
